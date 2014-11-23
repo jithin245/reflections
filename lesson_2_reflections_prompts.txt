@@ -2,3 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 It creates the .git file that makes it a git respository. Only once you have created a this index file we can run 
 git commands on that repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is the space where logical changes are made but not yet committed. By this we get a idea of changes that are yet to be 
+committed. 
