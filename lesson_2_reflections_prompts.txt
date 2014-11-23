@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates the .git file that makes it a git respository. Only once you have created a this index file we can run 
+git commands on that repository.
