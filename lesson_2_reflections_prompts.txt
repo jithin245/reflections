@@ -15,3 +15,7 @@ Do commit once you added all the attributes of a logical change to the staging a
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 If we want to experiment multiple versions for a file, branches would be helpful. We can switch to a branch and make changes for it without affecting other branch copies. 
+
+How do the diagrams help you visualize the branch structure?
+
+By using diagrams, we can get a idea of branches in the flow and find the reachability of branch points to other commit points easily, rather looking at the log files and finding reachability would be tedious. 
