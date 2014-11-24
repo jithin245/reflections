@@ -7,3 +7,9 @@ How is the staging area different from the working directory and the repository?
 
 Staging area is the space where logical changes are made but not yet committed. By this we get a idea of changes that are yet to be 
 committed. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Do commit once you added all the attributes of a logical change to the staging area. This ensures we have only one commit per logical change.
+
+ 
