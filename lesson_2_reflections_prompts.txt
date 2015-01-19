@@ -23,3 +23,7 @@ By using diagrams, we can get a idea of branches in the flow and find the reacha
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 It merges the changes made by commits of both the branches ie insertions and deletions are merged wrt to the orginal file. Diagrams are easy to visualize and gives us idea of the commit points to be merged. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+By using automatic merging user need not worry about changes made by commits of the branches that are merged ie it consumes lesser user time. Automatic merging shows conflicts incase of conflicting ideas by 2 branches so that user can decide what changes to be retained. But manual merging is tedious for the user.
