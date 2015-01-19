@@ -19,3 +19,7 @@ If we want to experiment multiple versions for a file, branches would be helpful
 How do the diagrams help you visualize the branch structure?
 
 By using diagrams, we can get a idea of branches in the flow and find the reachability of branch points to other commit points easily, rather looking at the log files and finding reachability would be tedious. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It merges the changes made by commits of both the branches ie insertions and deletions are merged wrt to the orginal file. Diagrams are easy to visualize and gives us idea of the commit points to be merged. 
