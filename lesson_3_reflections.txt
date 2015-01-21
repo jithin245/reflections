@@ -4,3 +4,6 @@ alternative.
 
 Q2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Ans : Sometimes user might not need all the updates in github remote repository. Pulling changes manually gives the user to use the desired content he/she wishes to work with.
+
+Q3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Ans : Fork is used to create a copy of repository on github if one doesnot have permissions on that repository. Clone is used to create copy of repository on local machine. Branches are used by git so as to make changes by experimenting in different ways and also if neccessary to recombine them so as to merge all those changes.
