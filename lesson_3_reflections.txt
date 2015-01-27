@@ -7,3 +7,6 @@ Ans : Sometimes user might not need all the updates in github remote repository.
 
 Q3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Ans : Fork is used to create a copy of repository on github if one doesnot have permissions on that repository. Clone is used to create copy of repository on local machine. Branches are used by git so as to make changes by experimenting in different ways and also if neccessary to recombine them so as to merge all those changes.
+
+Q4. What is the benefit of having a copy of the last known state of the remote stored locally?
+Ans : While pulling changes from remote repository it gives us idea about the point at which we have started making changes locally. 
